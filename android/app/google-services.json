@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988516701691",
+    "project_id": "escada-clean",
+    "storage_bucket": "escada-clean.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988516701691:android:817bbe3ef1c3173679a75e",
+        "android_client_info": {
+          "package_name": "com.escadaclean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988516701691-9dt494ka8896m69o4pln3rd31j6hsn4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyT8117J7Qmz6J6_St_ymC-SJYIUHX-do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988516701691-9dt494ka8896m69o4pln3rd31j6hsn4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
